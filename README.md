@@ -1,3 +1,6 @@
+# RandyCHS
+Hello everyone, I am **Randy Macdonald** and this is my project 
+
 # Tetris-The-Game
 Hello everyone, I am **Kanak Negi** and this is my project which I have created just for free play.
 
